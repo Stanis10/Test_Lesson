@@ -15,4 +15,6 @@ git config --global user.name - указываем своё имя в ковыч
 
 git config --global user.email - указываем свою электронную почту
 
-git checkout - команда позволяет перемещаться между сохранениями
+git checkout- команда позволяет перемещаться между сохранениями
+
+git checkout master- переход к последнему изменению 
