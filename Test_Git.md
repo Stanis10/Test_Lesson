@@ -51,6 +51,7 @@ git checkout Second4
 
 * Слить 4 ветки
 Пробую создать конфликт еще раз
+Error 1
 
 git merge Second1
 
