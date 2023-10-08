@@ -50,6 +50,7 @@ git checkout Second4
 далее повторяем предыдущие команды
 
 * Слить 4 ветки
+Error 1
 
 git merge Second1
 
@@ -57,7 +58,7 @@ git merge Second2
 
 git merge Second3
 
-Error1
+git merge Second4
 
 
 
