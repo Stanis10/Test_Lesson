@@ -61,6 +61,12 @@ git merge Second3
 
 git merge Second4
 
+git merge Second5
+
+СПАСИБО ЗА ЛЕКЦИИ, СЕМИНАРЫ И ПРАКТИКУ !
+
+ХОРОШЕГО ВСЕМ НАСТРОЕНИЯ !
+
 
 
 
