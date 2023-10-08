@@ -55,10 +55,9 @@ git merge Second1
 
 git merge Second2
 
-Interes git merge Second3
+git merge Second3
 
-Interes
-it merge Second4 Error 1
+git merge Second4
 
 
 
