@@ -31,8 +31,36 @@ git status - команда, вызывающая информацию
 ## Домашнее задание к 9.10
 * Создать 4 ветки
 
+git checkout Second1
+
+git add
+
+git commit -m "название измения"
+
+git checkout Second2
+
+далее повотряем предыдущие команды
+
+git checkout Second3
+
+далее повторяем предыдущие команды
+
+git checkout Second4
+
+далее повторяем предыдущие команды
 
 * Слить 4 ветки
+
+git merge Second1
+
+git merge Second2
+
+git merge Second3
+
+git merge Second4
+
+
+
 
 
 
