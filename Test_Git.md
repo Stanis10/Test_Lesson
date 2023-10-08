@@ -57,7 +57,7 @@ git merge Second2
 
 git merge Second3
 
-git merge Second4
+Error 1 it merge Second4 Error 1
 
 
 
